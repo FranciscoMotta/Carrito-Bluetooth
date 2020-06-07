@@ -1,0 +1,2 @@
+# Carrito-Bluetooth
+El presente proyecto consta en la implementación de un sistema de control de la parte motriz de un carro de control remoto de juguete mediante el módulo de puente en H y el módulo HC-05 para la comunicación inalambrica. Así mismo, dicho control se realiza por medio de una aplicación desarrollada en el MITAPP inventor que permite el envió de datos hacia el módulo bluetooth para ser interpretados por el microcontrolador PIC18F4550 y realizar la acción correspondiente.
